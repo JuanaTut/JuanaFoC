@@ -17,8 +17,8 @@ function toggleImage() {
 
   
 function toggleImage2() {
-   var img1 = "./FoC/blob/main/button-off-xxl.png?raw=true";
-   var img2 = "./FoC/blob/main/button-on-xxl.png?raw=true";
+   var img1 = "button-off-xxl.png?raw=true";
+   var img2 = "button-on-xxl.png?raw=true";
   
    
    var imgElement = document.getElementById('toggleImage2');
