@@ -4,7 +4,7 @@ var inputTwoIsOn = false;
 
 function toggleImage() {
    var img1 = "https://github.com/JuanaTut/FoC/blob/main/button-off-xxl.png?raw=true";
-   var img2 = "https://www.iconsdb.com/icons/preview/green/button-on-xxl.png";
+   var img2 = "https://github.com/JuanaTut/FoC/blob/main/button-on-xxl.png?raw=true";
   
    
    var imgElement = document.getElementById('toggleImage');
@@ -18,7 +18,7 @@ function toggleImage() {
   
 function toggleImage2() {
    var img1 = "https://github.com/JuanaTut/FoC/blob/main/button-off-xxl.png?raw=true";
-   var img2 = "https://www.iconsdb.com/icons/preview/green/button-on-xxl.png";
+   var img2 = "https://github.com/JuanaTut/FoC/blob/main/button-on-xxl.png?raw=true";
   
    
    var imgElement = document.getElementById('toggleImage2');
