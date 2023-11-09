@@ -55,11 +55,11 @@ function and(){
 	
     
     if(inputOneIsOn&&inputTwoIsOn)
-        document.getElementById('andGate').src='./Images/and2on.png';
+        document.getElementById('andGate').src='and2on.png';
     else if (!inputOneIsOn && inputTwoIsOn) 
-        document.getElementById('andGate').src='./Images/andoffon.PNG';
+        document.getElementById('andGate').src='andoffon.PNG';
 	else if (inputOneIsOn && !inputTwoIsOn) 
-        document.getElementById('andGate').src='./Images/andonoff.PNG';
+        document.getElementById('andGate').src='andonoff.PNG';
 	else if (!inputOneIsOn && !inputTwoIsOn) 
-        document.getElementById('andGate').src='./Images/and2off.PNG';
+        document.getElementById('andGate').src='and2off.PNG';
 	}
